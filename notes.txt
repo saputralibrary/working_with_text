@@ -1,0 +1,3 @@
+VSCode keyboard shortcut for comments syntax tiring
+
+Ctrl + /
